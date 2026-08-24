@@ -1,21 +1,3 @@
-I’ll inspect the mental-health predictor folder so the README matches its actual files, API, model inputs, and run commands.
-
-Read 
-
-Read , lines 1 to 260
-
-Searched for regex `fastapi|flask|streamlit|uvicorn|predict|score|API_BASE_URL|fetch\(` (`**/Mental_health_score_predictor/**`), 346 results
-
-The project is a regression app for predicting a continuous mental-health score from student social-media and lifestyle data. I’ve identified the exact input fields and hosted API from the frontend; I’m checking the backend response and notebook preprocessing once more so the README is accurate about score interpretation and model training.
-
-Read 
-
-Read 
-
-Read , lines 1 to 180
-
-Searched for regex `Pipeline|RandomForest|LinearRegression|X_train|y_train|drop\(|rename\(|predict_proba|mean_squared|r2_score|Mental_Health_Score` (`**/Mental_health_score_predictor/regression.ipynb`), 120 results
-
 # Mental Health Score Predictor
 
 A machine learning web application that predicts a student’s mental health score based on social-media usage, academic habits, lifestyle, and stress levels.
