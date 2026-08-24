@@ -176,6 +176,10 @@ http://127.0.0.1:5500
 
 Using a local web server is recommended instead of opening `index.html` directly.
 
+## LIVE LINK
+
+[Deployed website](https://mental-health-system-1-4y2a.onrender.com/)
+
 ## API Request Example
 
 Send a `POST` request to:
